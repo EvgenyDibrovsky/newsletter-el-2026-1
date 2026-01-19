@@ -1,0 +1,162 @@
+<mjml>
+  <mj-head>
+    <mj-title>Zobacz jak Zenrelia pomaga szybko przynieść ulgę od świądu!</mj-title>
+    <mj-style>
+      @media only screen and (max-width: 480px) {
+      .mobile-no-padding {
+      padding-left: 10px !important;
+      padding-right: 10px !important;
+      }
+      .mobile-padding {
+      padding-bottom: 28px !important;
+      }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-wrapper padding="0" background-color="#ffffff">
+
+      <mj-section padding="0">
+        <mj-column>
+          <mj-image src="./images/hero.jpg" fluid-on-mobile="true" align="center" padding="0" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-text css-class="mobile-no-padding" padding-left="30px" padding-right="0" color="#1f5245" font-size="26px"
+            line-height="32px" font-weight="700" font-family="Arial, Helvetica, sans-serif">
+            Czy chcesz zrozumieć mechanizm działania Zenrelii i dowiedzieć się, w jaki sposób dochodzi do łagodzenia
+            świądu?
+          </mj-text>
+          <mj-text css-class="mobile-no-padding" padding-left="30px" padding-right="30px" padding-bottom="10px"
+            color="#1f5245" font-size="20px" line-height="24px" font-weight="400"
+            font-family="Arial, Helvetica, sans-serif">
+            Stworzyliśmy krótki film informacyjny wyjaśniający sposób działania leku Zenrelia, nowego doustnego
+            inhibitora JAK dla psów z alergicznym i atopowym zapaleniem skóry.
+          </mj-text>
+          <mj-button href="https://elancoanimalhealth.wistia.com/medias/i7c2aby0j6" background-color="#90cc12"
+            color="#1f5245" font-size="20px" font-weight="600" font-family="Arial, Helvetica, sans-serif"
+            line-height="34px">
+            Sprawdź jak działa Zenrelia
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-url="./images/bg-1.jpg" background-size="cover" background-repeat="no-repeat">
+        <mj-column>
+          <mj-text css-class="mobile-no-padding" padding-left="30px" padding-right="2%" padding-top="0"
+            padding-bottom="50px" color="#ffffff" font-size="18px" line-height="26px" font-weight="400"
+            font-family="Arial, Helvetica, sans-serif">
+            Obejrzyj film już dziś, aby pogłębić swoją wiedzę na temat wyjątkowych korzyści wynikających ze stosowania
+            leku Zenrelia™:
+          </mj-text>
+
+          <mj-table css-class="mobile-no-padding" padding-left="30px" padding-right="2%" padding-top="0"
+            padding-bottom="0">
+            <tr>
+              <td width="52" valign="top"
+                style="padding-right:20px; padding-left:0; padding-top:0; padding-bottom:20px;">
+                <img src="./images/icon.png" width="52" height="52" alt=""
+                  style="display:block;border:0;outline:none;text-decoration:none;" />
+              </td>
+
+              <td valign="top"
+                style="padding-left:0; padding-right:0; padding-top:0; padding-bottom:20px;color:#ffffff;font-size:16px;line-height:22px;font-weight:400;font-family:Arial, Helvetica, sans-serif;">
+                <span style="color:#90cc12;">Szybkie działanie:</span>
+                Widoczna poprawa w ciągu jednego dnia<sup style="font-size:12px;line-height:0;">1</sup>
+              </td>
+            </tr>
+            <tr>
+              <td width="52" valign="top"
+                style="adding-right:20px; padding-left:0; padding-top:0; padding-bottom:20px;">
+                <img src="./images/icon.png" width="52" height="52" alt=""
+                  style="display:block;border:0;outline:none;text-decoration:none;" />
+              </td>
+
+              <td valign="top"
+                style="adding-left:0; padding-right:0; padding-top:0; padding-bottom:20px;color:#ffffff;font-size:16px;line-height:22px;font-weight:400;font-family:Arial, Helvetica, sans-serif;">
+                <span style="color:#90cc12;">Zenrelia™ pomaga wyeliminować objawy u psów alergicznych:</span>
+                Ponad 3 na 4 psy osiągnęły remisję kliniczną świądu<sup style="font-size:12px;line-height:0;">*1</sup>
+              </td>
+            </tr>
+            <tr>
+              <td width="52" valign="center"
+                style="adding-right:20px; padding-left:0; padding-top:0; padding-bottom:20px;">
+                <img src="./images/icon.png" width="52" height="52" alt=""
+                  style="display:block;border:0;outline:none;text-decoration:none;" />
+              </td>
+
+              <td valign="center"
+                style="adding-left:0; padding-right:0; padding-top:0; padding-bottom:20px;color:#ffffff;font-size:16px;line-height:22px;font-weight:400;font-family:Arial, Helvetica, sans-serif;">
+                <span style="color:#90cc12;">Łatwiejsze dawkowanie:</span>
+                Dzięki stałemu schematowi dawkowania raz dziennie od pierwszego dnia terapii nie występują oznaki
+                nawrotu świądu<sup style="font-size:12px;line-height:0;">1</sup>
+              </td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section padding-bottom="0">
+        <mj-column width="60%" padding-left="30px" padding-right="0" >
+          <mj-text css-class="mobile-no-padding" padding-left="0" padding-right="0" color="#1f5245" font-size="18px" line-height="24px"
+            font-weight="400" font-family="Arial, Helvetica, sans-serif">
+            <span style="font-weight:700;"> Poznaj zalety leku Zenrelia </span> – odwiedź naszą stronę już dziś!</span>
+          </mj-text>
+          <mj-button css-class="mobile-padding" padding-left="0px" padding-right="0" padding-bottom="0"
+            href="https://vet.elanco.com/pl/produkty/zenrelia?utm_source=magwet&utm_medium=email&utm_campaign=MOA&utm_term=available"
+            align="left" background-color="#90cc12" color="#1f5245" font-size="20px" font-weight="600"
+            font-family="Arial, Helvetica, sans-serif" line-height="34px">
+            Dowiedz się więcej
+          </mj-button>
+        </mj-column>
+        <mj-column width="40%">
+          <mj-image src="./images/img-product.jpg" fluid-on-mobile="true" align="center" padding="0" />
+        </mj-column>
+      </mj-section>
+
+
+   <mj-section  background-url="./images/bg-2.jpg" background-size="cover" background-repeat="no-repeat">
+    <mj-column>
+      <mj-text css-class="mobile-no-padding" color="#ffffff" padding-left="30px" padding-right="30px" font-size="11px" line-height="18px" font-weight="400" font-family="Arial, Helvetica, sans-serif">
+          * Normalny poziom świądu lub ustąpienie objawów klinicznych świądu definiuje się jako stan, w którym nasilenie choroby jest minimalne, nie wpływające znacząco na codzienne życie pacjenta, i jest porównywalny z poziomem odczuwania świądu przez psa bez alergii (PVAS<2). <br> 1. Forster S., et al. Vet Dermatol. 2025; 36: 165–176
+      </mj-text>
+ 
+  <mj-text css-class="mobile-no-padding" color="#ffffff" padding-left="30px" padding-right="30px" padding-top="5px" font-size="10px" line-height="16px" font-weight="400" font-family="Arial, Helvetica, sans-serif">
+ <a href="https://assets-us-01.kc-usercontent.com/0cec44ed-3eaa-0009-2029-666567e7e4de/b056951e-bdd0-483b-a543-903a08f90e9a/PL%20Zenrelia%20SPC_24.07.2025.pdf?smclient=16087934-97ad-11f0-ab4f-40a6b73c97e4" style="color: #ffffff; text-decoration: underline font-size:11px; line-height:18px; font-weight:400; font-family:Arial, Helvetica, sans-serif;">SPC</a>
+   </mj-text>
+           </mj-column>
+   </mj-section>
+
+      <mj-section  background-url="./images/bg-3.jpg" background-size="cover" background-repeat="no-repeat">
+    <mj-column>
+      <mj-text css-class="mobile-no-padding" color="#ffffff" font-size="11px" line-height="18px" font-weight="400" font-family="Arial, Helvetica, sans-serif">
+        © 2025 Elanco lub jej podmioty powiązane.<br>
+Zenrelia, Elanco i logo z ukośnym paskiem są znakami towarowymi firmy Elanco lub jej podmiotów powiązanych.<br> PM-PL- 25-0271
+      </mj-text>
+ 
+  
+           </mj-column>
+   </mj-section>
+
+       <mj-section  background-url="./images/bg-4.jpg" background-size="cover" background-repeat="no-repeat">
+    <mj-column>
+      <mj-text css-class="mobile-no-padding" padding-left="5px" padding-right="5px" color="#ffffff" font-size="11px" line-height="18px" font-weight="400" align="center" font-family="Arial, Helvetica, sans-serif">
+       Administratorem danych osobowych jest Medical Tribune Polska Sp. z o.o. z siedzibą w Warszawie. Osoba której dane przetwarzamy ma prawo do informacji o przetwarzaniu danych, wyrażeniu sprzeciwu co do określonego sposobu ich przetwarzania, żądania zaprzestania przetwarzania danych oraz złożenia skargi do organu nadzoru, którym w Polsce jest Prezes Urzędu Ochrony Danych Osobowych. Kontakt z administratorem: rodo-mt@medical-tribune.pl Szczegółowe informacje o administratorze, zakresie i celu przetwarzania oraz prawach osób, których dane przetwarzamy dostępne są na stronie  <a href="https://magwet.pl/polityka-prywatnosci" style="color: #ffffff; text-decoration: underline font-size:10px; line-height:16px; font-weight:400; font-family:Arial, Helvetica, sans-serif;">https://magwet.pl/polityka-prywatnosci</a>
+
+      </mj-text>
+       <mj-text  css-class="mobile-no-padding" color="#ffffff" font-size="11px" line-height="18px" font-weight="400" align="center" font-family="Arial, Helvetica, sans-serif">
+Informacja wysłana przez Medical Tribune Polska na zlecenie Elanco Poland sp. z o.o. <br> Nie chcesz otrzymywać od nas więcej e-maili?  <a href="https://app2.salesmanago.pl/ms/9ysfrdx2ki3skd2r/default/dedykowana_strona_wypisu.htm?contactId=16087934-97ad-11f0-ab4f-40a6b73c97e4" style="color: #ffffff; text-decoration: underline font-size:10px; line-height:16px; font-weight:400; font-family:Arial, Helvetica, sans-serif;">Kliknij tutaj</a> 
+      </mj-text>
+  
+           </mj-column>
+   </mj-section>
+ 
+ 
+
+      
+    </mj-wrapper>
+  </mj-body>
+</mjml>
