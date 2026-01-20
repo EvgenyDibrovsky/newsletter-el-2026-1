@@ -43,7 +43,7 @@
         </mj-column>
       </mj-section>
 
-      <mj-section background-url="./images/bg-1.jpg" background-size="cover" background-repeat="no-repeat">
+      <mj-section background-color="#1f5145" background-url="./images/bg-1.jpg" background-size="cover" background-repeat="no-repeat" >
         <mj-column>
           <mj-text css-class="mobile-no-padding" padding-left="30px" padding-right="2%" padding-top="0"
             padding-bottom="50px" color="#ffffff" font-size="18px" line-height="26px" font-weight="400"
@@ -118,7 +118,7 @@
       </mj-section>
 
 
-   <mj-section  background-url="./images/bg-2.jpg" background-size="cover" background-repeat="no-repeat">
+   <mj-section  background-color="#1f5145" background-url="./images/bg-2.jpg" background-size="cover" background-repeat="no-repeat">
     <mj-column>
       <mj-text css-class="mobile-no-padding" color="#ffffff" padding-left="30px" padding-right="30px" font-size="11px" line-height="18px" font-weight="400" font-family="Arial, Helvetica, sans-serif">
           * Normalny poziom świądu lub ustąpienie objawów klinicznych świądu definiuje się jako stan, w którym nasilenie choroby jest minimalne, nie wpływające znacząco na codzienne życie pacjenta, i jest porównywalny z poziomem odczuwania świądu przez psa bez alergii (PVAS<2). <br> 1. Forster S., et al. Vet Dermatol. 2025; 36: 165–176
@@ -130,7 +130,7 @@
            </mj-column>
    </mj-section>
 
-      <mj-section  background-url="./images/bg-3.jpg" background-size="cover" background-repeat="no-repeat">
+      <mj-section  background-color="#5e8580" background-url="./images/bg-3.jpg" background-size="cover" background-repeat="no-repeat">
     <mj-column>
       <mj-text css-class="mobile-no-padding" color="#ffffff" font-size="11px" line-height="18px" font-weight="400" font-family="Arial, Helvetica, sans-serif">
         © 2025 Elanco lub jej podmioty powiązane.<br>
@@ -141,7 +141,7 @@ Zenrelia, Elanco i logo z ukośnym paskiem są znakami towarowymi firmy Elanco l
            </mj-column>
    </mj-section>
 
-       <mj-section  background-url="./images/bg-4.jpg" background-size="cover" background-repeat="no-repeat">
+       <mj-section  background-color="#1f5145" background-url="./images/bg-4.jpg" background-size="cover" background-repeat="no-repeat">
     <mj-column>
       <mj-text css-class="mobile-no-padding" padding-left="5px" padding-right="5px" color="#ffffff" font-size="11px" line-height="18px" font-weight="400" align="center" font-family="Arial, Helvetica, sans-serif">
        Administratorem danych osobowych jest Medical Tribune Polska Sp. z o.o. z siedzibą w Warszawie. Osoba której dane przetwarzamy ma prawo do informacji o przetwarzaniu danych, wyrażeniu sprzeciwu co do określonego sposobu ich przetwarzania, żądania zaprzestania przetwarzania danych oraz złożenia skargi do organu nadzoru, którym w Polsce jest Prezes Urzędu Ochrony Danych Osobowych. Kontakt z administratorem: rodo-mt@medical-tribune.pl Szczegółowe informacje o administratorze, zakresie i celu przetwarzania oraz prawach osób, których dane przetwarzamy dostępne są na stronie  <a href="https://magwet.pl/polityka-prywatnosci" style="color: #ffffff; text-decoration: underline font-size:10px; line-height:16px; font-weight:400; font-family:Arial, Helvetica, sans-serif;">https://magwet.pl/polityka-prywatnosci</a>
